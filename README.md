@@ -1,16 +1,11 @@
-# flutter_dti_project
+# โปรเจ็กค์ flutter_dti_project
 
-A new Flutter project.
+UI Sceen only for Welcome, Login, Signup
 
-## Getting Started
+## ภาพ UI
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/9f130caf-ae97-4748-8416-37dc98127228" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/f16ccfa5-47e8-4819-84e9-3b48b5f99413" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/9eadb87a-fc9f-4805-a866-9bccd749939e" width="200">
